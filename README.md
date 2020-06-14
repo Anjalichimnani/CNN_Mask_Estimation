@@ -44,26 +44,30 @@ The Image segmentation is performed using three different architectures:
     ![UNet Parameters](https://github.com/Anjalichimnani/CNN_Mask_Estimation/blob/master/reference/UNet_Parameters.PNG)
     
     
-The Images taken for segmentation are placed at [Link](https://github.com/Anjalichimnani/CNN_Mask_Estimation/tree/master/reference) for reference. 
-The complete Code can be found at [Link](https://github.com/Anjalichimnani/CNN_Mask_Estimation/blob/master/CNN_Image_Segmentation.ipynb)
-The Custom OfficeDataSet can be found at [Loader](https://github.com/Anjalichimnani/CNN_Mask_Estimation/blob/master/library/dataloaders/custom_data_loader.py)
+* The Images taken for segmentation are placed at [Link](https://github.com/Anjalichimnani/CNN_Mask_Estimation/tree/master/reference) for reference. 
+* The complete Code can be found at [Link](https://github.com/Anjalichimnani/CNN_Mask_Estimation/blob/master/CNN_Image_Segmentation.ipynb)
+* The Custom OfficeDataSet can be found at [Loader](https://github.com/Anjalichimnani/CNN_Mask_Estimation/blob/master/library/dataloaders/custom_data_loader.py)
  
 ## Image Segmentation Results  
 The Masks generted based on the different architectures are as below: 
 
 ### Basic Architecture
-Predicted
+* Predicted
+
 ![Predicted Mask](https://github.com/Anjalichimnani/CNN_Mask_Estimation/blob/master/reference/Basic_Architecture_Predicted_Mask.PNG)
 
-Actual
+* Actual
+
 ![Actual Mask](https://github.com/Anjalichimnani/CNN_Mask_Estimation/blob/master/reference/Actual_Mask.PNG)
 
 
 ### UNet Architecture
-Predicted
+* Predicted
+
 ![Predicted Mask](https://github.com/Anjalichimnani/CNN_Mask_Estimation/blob/master/reference/UNet_Predicted_Masks.PNG)
 
-Actual
+* Actual
+
 ![Actual Mask](https://github.com/Anjalichimnani/CNN_Mask_Estimation/blob/master/reference/Actual_Mask.PNG)
 
 ## References
