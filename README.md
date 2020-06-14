@@ -45,19 +45,18 @@ The Image segmentation is performed using three different architectures:
     
     
 The Images taken for segmentation are placed at [Link](https://github.com/Anjalichimnani/CNN_Mask_Estimation/tree/master/reference) for reference. 
+The complete Code can be found at [Link](https://github.com/Anjalichimnani/CNN_Mask_Estimation/blob/master/CNN_Image_Segmentation.ipynb)
+The Custom OfficeDataSet can be found at [Loader](https://github.com/Anjalichimnani/CNN_Mask_Estimation/blob/master/library/dataloaders/custom_data_loader.py)
  
 ## Image Segmentation Results  
 The Masks generted based on the different architectures are as below: 
 
 ### Basic Architecture
 Predicted
+![Predicted]()
 
 Actual
 
-### Customized Architecture
-Predicted
-
-Actual
 
 ### UNet Architecture
 Predicted
@@ -66,4 +65,5 @@ Actual
 
 ## References
 [UNet](https://towardsdatascience.com/u-net-b229b32b4a71)
+
 [Custom Data](https://github.com/Anjalichimnani/EVA4_Custom_Data)
