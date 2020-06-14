@@ -53,15 +53,18 @@ The Masks generted based on the different architectures are as below:
 
 ### Basic Architecture
 Predicted
-![Predicted]()
+![Predicted Mask](https://github.com/Anjalichimnani/CNN_Mask_Estimation/blob/master/reference/Basic_Architecture_Predicted_Mask.PNG)
 
 Actual
+![Actual Mask](https://github.com/Anjalichimnani/CNN_Mask_Estimation/blob/master/reference/Actual_Mask.PNG)
 
 
 ### UNet Architecture
 Predicted
+![Predicted Mask](https://github.com/Anjalichimnani/CNN_Mask_Estimation/blob/master/reference/UNet_Predicted_Masks.PNG)
 
 Actual
+![Actual Mask](https://github.com/Anjalichimnani/CNN_Mask_Estimation/blob/master/reference/Actual_Mask.PNG)
 
 ## References
 [UNet](https://towardsdatascience.com/u-net-b229b32b4a71)
