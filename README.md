@@ -14,6 +14,8 @@ The Image segmentation is performed using three different architectures:
     
     ![UNet](https://github.com/Anjalichimnani/EVA4_Custom_Data/blob/master/reference_images/mask_images.png)
     
+The Images taken for segmentation are placed at for reference. 
+    
 The Masks generted based on the different architectures are as below: 
 
 ## Basic Architecture
